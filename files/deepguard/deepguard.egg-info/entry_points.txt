@@ -1,0 +1,2 @@
+[console_scripts]
+deepguard = deepguard.cli:main

@@ -1,0 +1,11 @@
+setup.py
+deepguard/__init__.py
+deepguard/cli.py
+deepguard/detector.py
+deepguard.egg-info/PKG-INFO
+deepguard.egg-info/SOURCES.txt
+deepguard.egg-info/dependency_links.txt
+deepguard.egg-info/entry_points.txt
+deepguard.egg-info/requires.txt
+deepguard.egg-info/top_level.txt
+tests/test_detector.py
